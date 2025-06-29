@@ -1,4 +1,6 @@
 # Title: Geographically Weighted Cronbach’s Alpha (GWalpha): an Exploratory Local Measure of Reliability for Scale Construction
+## Sui Zhang and Ziqi Li
+## Corresponce: Sui Zhang (sui.zhang@manchester.ac.uk)
 
 ## Load packages
 library(sp)
